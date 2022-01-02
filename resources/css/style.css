@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+    background-color: black;
+    color: #DBBF5F;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+  }
+  
+  th, td {
+    padding: 8px;
+  }
+  
+  /* tr:nth-child(even) {background-color: #22E094 !important} */
+  
+  th {
+    background-color: #132EE0;
+  }
